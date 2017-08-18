@@ -1,0 +1,6 @@
+c:\users\tammiemarie\documents\visual studio 2017\Projects\MathChallenge\MathChallenge\obj\Debug\MathChallenge.csprojResolveAssemblyReference.cache
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe.config
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\MathChallenge\MathChallenge\bin\Debug\MathChallenge.exe
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\MathChallenge\MathChallenge\bin\Debug\MathChallenge.pdb
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\MathChallenge\MathChallenge\obj\Debug\MathChallenge.exe
+C:\Users\tammiemarie\Documents\Visual Studio 2017\Projects\MathChallenge\MathChallenge\obj\Debug\MathChallenge.pdb
